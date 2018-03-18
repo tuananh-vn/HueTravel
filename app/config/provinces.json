@@ -1,0 +1,450 @@
+[
+  {
+    "id": "1",
+    "name": "An Giang",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "89"
+  },
+  {
+    "id": "2",
+    "name": "Bà Rịa - Vũng Tàu",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "77"
+  },
+  {
+    "id": "3",
+    "name": "Bắc Giang",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "24"
+  },
+  {
+    "id": "4",
+    "name": "Bắc Kạn",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "06"
+  },
+  {
+    "id": "5",
+    "name": "Bạc Liêu",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "95"
+  },
+  {
+    "id": "6",
+    "name": "Bắc Ninh",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "27"
+  },
+  {
+    "id": "7",
+    "name": "Bến Tre",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "83"
+  },
+  {
+    "id": "8",
+    "name": "Bình Định",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "52"
+  },
+  {
+    "id": "9",
+    "name": "Bình Dương",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "74"
+  },
+  {
+    "id": "10",
+    "name": "Bình Phước",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "70"
+  },
+  {
+    "id": "11",
+    "name": "Bình Thuận",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "60"
+  },
+  {
+    "id": "12",
+    "name": "Cà Mau",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "96"
+  },
+  {
+    "id": "13",
+    "name": "Cần Thơ",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "92"
+  },
+  {
+    "id": "14",
+    "name": "Cao Bằng",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "04"
+  },
+  {
+    "id": "15",
+    "name": "Đà Nẵng",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "48"
+  },
+  {
+    "id": "16",
+    "name": "Đăk Lăk",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "66"
+  },
+  {
+    "id": "17",
+    "name": "Đăk Nông",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "67"
+  },
+  {
+    "id": "18",
+    "name": "Điện Biên",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "11"
+  },
+  {
+    "id": "19",
+    "name": "Đồng Nai",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "75"
+  },
+  {
+    "id": "20",
+    "name": "Đồng Tháp",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "87"
+  },
+  {
+    "id": "21",
+    "name": "Gia Lai",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "64"
+  },
+  {
+    "id": "22",
+    "name": "Hà Giang",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "02"
+  },
+  {
+    "id": "23",
+    "name": "Hà Nam",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "35"
+  },
+  {
+    "id": "24",
+    "name": "Hà Nội",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "01"
+  },
+  {
+    "id": "25",
+    "name": "Hà Tĩnh",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "42"
+  },
+  {
+    "id": "26",
+    "name": "Hải Dương",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "30"
+  },
+  {
+    "id": "27",
+    "name": "Hải Phòng",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "31"
+  },
+  {
+    "id": "28",
+    "name": "Hậu Giang",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "93"
+  },
+  {
+    "id": "29",
+    "name": "Hoà Bình",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "17"
+  },
+  {
+    "id": "30",
+    "name": "Hưng Yên",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "33"
+  },
+  {
+    "id": "31",
+    "name": "Khánh Hoà",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "56"
+  },
+  {
+    "id": "32",
+    "name": "Kiên Giang",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "91"
+  },
+  {
+    "id": "33",
+    "name": "Kon Tum",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "62"
+  },
+  {
+    "id": "34",
+    "name": "Lai Châu",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "12"
+  },
+  {
+    "id": "35",
+    "name": "Lâm Đồng",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "68"
+  },
+  {
+    "id": "36",
+    "name": "Lạng Sơn",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "20"
+  },
+  {
+    "id": "37",
+    "name": "Lào Cai",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "10"
+  },
+  {
+    "id": "38",
+    "name": "Long An",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "80"
+  },
+  {
+    "id": "39",
+    "name": "Nam Định",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "36"
+  },
+  {
+    "id": "40",
+    "name": "Nghệ An",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "40"
+  },
+  {
+    "id": "41",
+    "name": "Ninh Bình",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "37"
+  },
+  {
+    "id": "42",
+    "name": "Ninh Thuận",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "58"
+  },
+  {
+    "id": "43",
+    "name": "Phú Thọ",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "25"
+  },
+  {
+    "id": "44",
+    "name": "Phú Yên",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "54"
+  },
+  {
+    "id": "45",
+    "name": "Quảng Bình",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "44"
+  },
+  {
+    "id": "46",
+    "name": "Quảng Nam",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "49"
+  },
+  {
+    "id": "47",
+    "name": "Quảng Ngãi",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "51"
+  },
+  {
+    "id": "48",
+    "name": "Quảng Ninh",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "22"
+  },
+  {
+    "id": "49",
+    "name": "Quảng Trị",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "45"
+  },
+  {
+    "id": "50",
+    "name": "Sóc Trăng",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "94"
+  },
+  {
+    "id": "51",
+    "name": "Sơn La",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "14"
+  },
+  {
+    "id": "52",
+    "name": "Tây Ninh",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "72"
+  },
+  {
+    "id": "53",
+    "name": "Thái Bình",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "34"
+  },
+  {
+    "id": "54",
+    "name": "Thái Nguyên",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "19"
+  },
+  {
+    "id": "55",
+    "name": "Thanh Hóa",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "38"
+  },
+  {
+    "id": "56",
+    "name": "Thừa Thiên-Huế",
+    "region": "Miền Trung",
+    "region_id": "2",
+    "code": "46"
+  },
+  {
+    "id": "57",
+    "name": "Tiền Giang",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "82"
+  },
+  {
+    "id": "58",
+    "name": "Tp. Hồ Chí Minh",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "79"
+  },
+  {
+    "id": "59",
+    "name": "Trà Vinh",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "84"
+  },
+  {
+    "id": "60",
+    "name": "Tuyên Quang",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "08"
+  },
+  {
+    "id": "61",
+    "name": "Vĩnh Long",
+    "region": "Miền Nam",
+    "region_id": "3",
+    "code": "86"
+  },
+  {
+    "id": "62",
+    "name": "Vĩnh Phúc",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "26"
+  },
+  {
+    "id": "63",
+    "name": "Yên Bái",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "15"
+  },
+  {
+    "id": "64",
+    "name": "Hà Tây",
+    "region": "Miền Bắc",
+    "region_id": "1",
+    "code": "01"
+  }
+]

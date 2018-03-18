@@ -1,0 +1,9 @@
+export const getUserInfo = (state) => state.user;
+export const getStoredProduct = (state) => state.product;
+export const getCurrentCart = (state) => state.cart;
+export const getBundle = (state) => state.bundle;
+export const getCustomer = (state) => state.customer;
+export const getSale = (state) => state.sale;
+export const getNotification = (state) => state.notification;
+export const getCurrentBundle = (state) => state.bundle;
+export const getSavedProducts = (state) => state.bundle.saved_products;

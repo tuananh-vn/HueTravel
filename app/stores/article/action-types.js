@@ -1,0 +1,4 @@
+export const CHANGE_MODAL_STATUS = 'GET_ARTICLE_LIST';
+
+
+export const CLEAR_BUNDLE_CART = 'GET_ARTICLE_DETAIL';
